@@ -21,8 +21,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     [self updateViews];
    
-    NSString *SSID = @"Opendoor Guest";
-    NSString *passphrase = @"opendoorguest116";
+    NSString *SSID = @"NotKnox2";
+    NSString *passphrase = @"987654321";
     NEHotspotConfiguration *configuration = [[NEHotspotConfiguration alloc] initWithSSID:SSID
                                                                               passphrase:passphrase
                                                                                    isWEP:NO];
